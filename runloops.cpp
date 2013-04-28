@@ -50,7 +50,7 @@ while(backgroundWorkerRunning) {
 		while(gameRunning) { // This blocks outer loop, but that's OK.
 			handleInput();
 			renderFrame();
-			avm2UIthunk(doStuffOnMainThread);
+			avm2_ui_thunk(doStuffOnMainThread);
 		}
 	}
 }

@@ -1,0 +1,2 @@
+cd WOLF3D
+WOLF3D.EXE

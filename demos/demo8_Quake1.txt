@@ -1,0 +1,1 @@
+To compile the Quake1 demo you'll need the original game data files for Quake1 (buy it on Steam and you should have everything you need) then you can just compile the example that ships with the FlasCC SDK.

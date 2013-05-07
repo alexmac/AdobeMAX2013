@@ -1,0 +1,2 @@
+code: https://github.com/alexmac/alcexamples/tree/master/Quake3
+And you'll need some game data from your retail copy of Quake3 (buy it on Steam if you don't already have it)

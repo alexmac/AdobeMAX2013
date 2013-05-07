@@ -1,0 +1,1 @@
+to make this demo work you'll need to put a bochs format disk image in the "bochsvfs" folder and then compress all of its contents as a zip named "bochsvfs.zip", the disk image should be named "cdrive.img".

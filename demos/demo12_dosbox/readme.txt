@@ -1,0 +1,1 @@
+to make this demo work modify the run.bat file in the ROOT folder to do something useful (you'll also want to copy any executables you want into that ROOT folder) then zip compress the whole ROOT folder and name it "dosboxvfs.zip" the swf will load this zip and run the "run.bat" file
